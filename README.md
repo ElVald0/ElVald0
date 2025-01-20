@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Valdo<br>Soy estudiante de Licenciatura en Informática en la Universidad UDE, actualmente en mi segundo año. Me apasiona la programación, los sistemas operativos y la arquitectura de computadoras.<br><br>🚀 En constante aprendizaje<br>Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades en desarrollo de software. Me gusta resolver problemas y optimizar código.<br><br>📫 valdocastiglia70@gmail.com Conéctate conmigo<br>Si te interesa colaborar o intercambiar ideas, ¡estaré encantado de conectar contigo!
+👋 ¡Hola! Soy Valdo<br>Soy estudiante de Licenciatura en Informática en la Universidad UDE, actualmente en mi segundo año. Me apasiona la programación, los sistemas operativos y la arquitectura de computadoras.<br><br>🚀 En constante aprendizaje<br>Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades en desarrollo de software. Me gusta resolver problemas y optimizar código.<br><br>📫 Conéctate conmigo<br>Si te interesa colaborar o intercambiar ideas, ¡estaré encantado de conectar contigo! Mail:valdocastiglia70@gmail.com
 
 
 ## 🌐 Socials:
