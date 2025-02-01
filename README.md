@@ -2,7 +2,6 @@
 👋 ¡Hola! Soy Valdo<br>Soy estudiante de Licenciatura en Informática en la Universidad UDE, actualmente en mi segundo año. Me apasiona la programación, los sistemas operativos y la arquitectura de computadoras.<br><br>🚀 En constante aprendizaje<br>Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades en desarrollo de software. Me gusta resolver problemas y optimizar código.<br><br>📫 Conéctate conmigo<br>Si te interesa colaborar o intercambiar ideas, ¡estaré encantado de conectar contigo! 
 Mail:valdocastiglia70@gmail.com
 Stack Overflow:https://stackoverflow.com/users/21148998/vald0
-Linkedin:linkedin.com/in/valdo-castiglia-5423a4311
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v4ld08933) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valld0_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Valdo (Miguel) Castiglia) 
